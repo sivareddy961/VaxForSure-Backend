@@ -1,0 +1,48 @@
+2026-01-03 05:03:12 - Failed to send to: harshavardhan1939.sse@saveetha.com
+OTP: 212399
+Check: 1) App Password correct 2) 2-Step Verification enabled 3) Firewall settings
+
+2026-01-03 05:04:53 - Failed to send to: budigiveerasivareddy@gmail.com
+OTP: 726941
+Check: 1) App Password correct 2) 2-Step Verification enabled 3) Firewall settings
+
+2026-01-03 07:11:00 - Failed to send to: budigiveerasivareddy@gmail.com
+OTP: 335738
+Check: 1) App Password correct 2) 2-Step Verification enabled 3) Firewall settings
+
+2026-01-03 07:12:56 - Failed to send to: budigiveerasivareddy@gmail.com
+OTP: 799202
+Check: 1) App Password correct 2) 2-Step Verification enabled 3) Firewall settings
+
+2026-01-03 07:40:03 - Failed to send to: budigiveerasivareddy@gmail.com
+OTP: 917145
+Check: 1) App Password correct 2) 2-Step Verification enabled 3) Firewall settings
+
+2026-01-03 07:41:23 - Failed to send to: omkarvinays3104@gmail.com
+OTP: 584825
+Check: 1) App Password correct 2) 2-Step Verification enabled 3) Firewall settings
+
+2026-01-03 07:43:01 - Failed to send to: omkarvinays3104@gmail.com
+OTP: 767539
+Check: 1) App Password correct 2) 2-Step Verification enabled 3) Firewall settings
+
+2026-01-03 07:43:02 - Failed to send to: omkarvinays3104@gmail.com
+OTP: 529772
+Check: 1) App Password correct 2) 2-Step Verification enabled 3) Firewall settings
+
+2026-01-03 07:43:02 - Failed to send to: omkarvinays3104@gmail.com
+OTP: 691420
+Check: 1) App Password correct 2) 2-Step Verification enabled 3) Firewall settings
+
+2026-01-03 07:43:03 - Failed to send to: omkarvinays3104@gmail.com
+OTP: 739589
+Check: 1) App Password correct 2) 2-Step Verification enabled 3) Firewall settings
+
+2026-01-03 07:43:03 - Failed to send to: omkarvinays3104@gmail.com
+OTP: 667178
+Check: 1) App Password correct 2) 2-Step Verification enabled 3) Firewall settings
+
+2026-01-03 07:43:05 - Failed to send to: omkarvinays3104@gmail.com
+OTP: 484537
+Check: 1) App Password correct 2) 2-Step Verification enabled 3) Firewall settings
+

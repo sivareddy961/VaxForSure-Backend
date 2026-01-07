@@ -1,0 +1,43 @@
+<?php
+/**
+ * Email Configuration Template
+ * 
+ * INSTRUCTIONS:
+ * 1. Copy this file and rename it to: email_config.php
+ * 2. Fill in your email credentials below
+ * 3. Save the file
+ * 4. Test email sending using: http://localhost/vaxforsure/CONFIGURE_EMAIL.php
+ * 
+ * SECURITY NOTE:
+ * This file contains sensitive credentials. Make sure it's not publicly accessible.
+ * Add this line to .htaccess: <Files "email_config.php">Order allow,deny</Files>
+ */
+
+// SMTP Server Configuration
+$smtp_host = 'smtp.gmail.com';  // Gmail SMTP (change for other providers)
+$smtp_port = 587;  // TLS port (use 465 for SSL)
+
+// Your Email Credentials
+$smtp_username = 'your-email@gmail.com';  // Your Gmail address
+$smtp_password = 'your-app-password';  // Gmail App Password (16 characters, no spaces)
+
+// From Address (sender information)
+$smtp_from_email = 'your-email@gmail.com';  // Usually same as username
+$smtp_from_name = 'VaxForSure';  // Display name
+
+/*
+ * HOW TO GET GMAIL APP PASSWORD:
+ * 
+ * 1. Go to: https://myaccount.google.com/
+ * 2. Click "Security" on the left
+ * 3. Enable "2-Step Verification" (if not already enabled)
+ * 4. Go back to Security → Scroll to "App passwords"
+ * 5. Select app: "Mail" and device: "Other (Custom name)"
+ * 6. Enter name: "VaxForSure"
+ * 7. Click "Generate"
+ * 8. Copy the 16-character password (remove spaces when entering here)
+ * 
+ * IMPORTANT: Use App Password, NOT your regular Gmail password!
+ */
+
+?>
